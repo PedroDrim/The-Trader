@@ -1,0 +1,1 @@
+keys = c("YHOO","AAPL","MSFT","GOOG","BIDU","FB","IBM","TWTR","HPQ")
